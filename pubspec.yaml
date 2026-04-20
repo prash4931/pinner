@@ -1,7 +1,9 @@
 name: pinner
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/prash4931/pinner
+repository: https://github.com/prash4931/pinner
+issue_tracker: https://github.com/prash4931/pinner/issues
 
 environment:
   sdk: ^3.11.4
