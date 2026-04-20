@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - pinner (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pinner (from `.symlinks/plugins/pinner/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pinner:
+    :path: ".symlinks/plugins/pinner/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  pinner: b336e8224be3a7a5a9a340a9b5cbcc294c0b515b
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
