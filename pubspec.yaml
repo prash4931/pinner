@@ -1,12 +1,12 @@
 name: pinner
-description: "A new Flutter plugin project."
+description: "Cross-platform Flutter plugin for SSL pinning using SPKI (SHA-256) on Android and iOS. Protects API communication against MITM attacks."
 version: 0.0.1
 homepage: https://github.com/prash4931/pinner
 repository: https://github.com/prash4931/pinner
 issue_tracker: https://github.com/prash4931/pinner/issues
 
 environment:
-  sdk: ^3.11.4
+  sdk: ^3.9.0
   flutter: '>=3.3.0'
 
 dependencies:
